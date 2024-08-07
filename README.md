@@ -1,4 +1,4 @@
-## Prodigy_DS_02: Data Cleaning and Exploratory Data Analysis (EDA) on Titanic Dataset
+## Data Cleaning and Exploratory Data Analysis (EDA) on Titanic Dataset
 
 This file contains code and CSV files used for performing data cleaning and exploratory data analysis (EDA) on the Titanic dataset. The analysis follows a structured approach to understand and prepare the data for further modeling.
 
